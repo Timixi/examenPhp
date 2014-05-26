@@ -1,11 +1,11 @@
-README
+Examen de php
 =============================================================== 
 
 
 <i>Timothy Beek 3TID1</i>
 
 
-<b>Examen de php</b>
+<b>Commentaires</b>
 
 * inscription et connection à mon TFE avec un email de confirmation
 
@@ -17,6 +17,6 @@ README
 =============================================================== 
 
 
-<b>reste à faire</b>
+<b>Reste à faire</b>
 
 * styliser le mail de confirmation
