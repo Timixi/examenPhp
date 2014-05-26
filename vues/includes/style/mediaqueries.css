@@ -1,0 +1,371 @@
+@charset "UTF-8";
+/* CSS Document pour les media queries*/
+
+/*//////////////////////style specifique//////////////////////////*/
+/*-------------------------------------------------------------*/
+
+/*------------------------------------------------- Media Query Adjustments -----------------------------------------------------*/
+		
+@media screen and (min-width: 1280px) and (max-width: 1600px) {
+  
+	section.introduction {
+	margin-bottom: 50px; 
+	}
+
+	section.VoyageAll {
+	position: relative;
+	margin-bottom: 50px;
+	}
+
+}
+
+
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+  
+
+	section.introduction {
+	margin-bottom: 50px; 
+	}
+
+	section.VoyageAll {
+	position: relative;
+	margin-bottom: 50px;
+	}
+
+}
+
+	
+			
+/*------------------------------------------------- Media Query height -----------------------------------------------------*/
+
+@media screen and (max-height: 930px) {
+
+	section.introduction {
+		height: 832px;
+	}
+
+	section.VoyageAll {
+		height: 784px;
+	}
+
+	.message {
+	top: 150px;
+	}
+
+	.photoProfil {
+	padding-top: 65px;
+	}
+
+	.biblio-intro {
+	top: 150px;
+	}
+
+	.histoire-intro {
+	top: 280px;
+	}
+
+	section.credits {
+	height: 819px;
+	}
+
+	.feedback, .source, .suivis, .liensUtile {
+	margin-top: 305px;
+	}
+
+	/*form*/
+
+	.formAddTravel {
+	top: 150px;
+	}
+
+	.formConnection, .formInscription {
+	padding-top: 150px;
+	}
+
+}
+
+@media screen and (max-height: 900px) {
+
+	section.introduction {
+		height: 784px;
+	}
+
+	section.VoyageAll {
+		height: 736px;
+	}
+
+	.message {
+	top: 130px;
+	}
+
+	.photoProfil {
+	padding-top: 65px;
+	}
+
+	.biblio-intro {
+	top: 125px;
+	}
+
+	.histoire-intro {
+	top: 255px;
+	}
+
+	section.credits {
+	height: 789px;
+	}
+
+	.feedback, .source, .suivis, .liensUtile {
+	margin-top: 290px;
+	}
+
+	/*form*/
+
+	.formAddTravel {
+	top: 120px;
+	}
+
+	.formConnection, .formInscription {
+	padding-top: 130px;
+	}
+
+}
+
+@media screen and (max-height: 850px) {
+
+	section.introduction {
+		height: 736px;
+	}
+
+	section.VoyageAll {
+		height: 688px;
+	}
+
+	.message {
+	top: 110px;
+	}
+
+	.photoProfil {
+	padding-top: 65px;
+	}
+
+	.biblio-intro {
+	top: 100px;
+	}
+
+	.histoire-intro {
+	top: 230px;
+	}
+
+	section.credits {
+	height: 741px;
+	}
+
+	.feedback, .source, .suivis, .liensUtile {
+	margin-top: 225px;
+	}
+
+	/*form*/
+
+	.formAddTravel {
+	top: 100px;
+	}
+
+	.formConnection, .formInscription {
+	padding-top: 110px;
+	}
+
+}
+
+@media screen and (max-height: 800px) {
+
+	section.introduction {
+		height: 688px;
+	}
+
+	section.VoyageAll {
+		height: 640px;
+	}
+
+	.message {
+	top: 90px;
+	}
+
+	.photoProfil {
+	padding-top: 65px;
+	}
+
+	.biblio-intro {
+	top: 75px;
+	}
+
+	.histoire-intro {
+	top: 205px;
+	}
+
+	section.credits {
+	height: 675px;
+	}
+
+	.feedback, .source, .suivis, .liensUtile {
+	margin-top: 250px;
+	}
+
+	/*form*/
+
+	.formAddTravel {
+	top: 80px;
+	}
+
+	.formConnection, .formInscription {
+	padding-top: 90px;
+	}
+
+	
+
+}
+
+@media screen and (max-height: 755px) {
+
+	section.introduction {
+		height: 640px;
+	}
+
+	section.VoyageAll {
+		height: 592px;
+	}
+
+	.message {
+	top: 70px;
+	}
+
+	.photoProfil {
+	padding-top: 65px;
+	}
+
+	.biblio-intro {
+	top: 50px;
+	}
+
+	.histoire-intro {
+	top: 180px;
+	}
+
+	section.credits {
+	height: 645px;
+	}
+
+	.feedback, .source, .suivis, .liensUtile {
+	margin-top: 250px;
+	}
+
+	/*form*/
+
+	.formAddTravel {
+	top: 60px;
+	}
+
+	.formConnection, .formInscription {
+	padding-top: 70px;
+	}
+
+}
+
+@media screen and (max-height: 705px) {
+
+	section.introduction {
+		height: 592px;
+	}
+
+	section.VoyageAll {
+		height: 544px;
+	}
+
+	.message {
+	top: 50px;
+	}
+
+	.photoProfil {
+	padding-top: 65px;
+	}
+
+	.biblio-intro {
+	top: 25px;
+	}
+
+	.histoire-intro {
+	top: 155px;
+	}
+
+	section.credits {
+	height: 596px;
+	}
+
+	.feedback, .source, .suivis, .liensUtile {
+	margin-top: 210px;
+	}
+
+	/*form*/
+
+	.formAddTravel {
+	top: 40px;
+	}
+
+	.formConnection, .formInscription {
+	padding-top: 50px;
+	}
+
+}
+
+@media screen and (max-height: 660px) {
+
+	section.introduction {
+		height: 544px;
+	}
+
+	section.VoyageAll {
+		height: 512px;
+	}
+
+	.message {
+	top: 30px;
+	}
+
+	.photoProfil {
+	padding-top: 65px;
+	}
+
+	.biblio-intro {
+	top: 35px;
+	}
+
+	.biblio-intro h4 {
+	margin-bottom: 15px;
+	}
+
+	.button-biblio {
+	top: 70px;
+	}
+
+	.histoire-intro {
+	top: 130px;
+	}
+
+	section.credits {
+	height: 530px;
+	}
+
+	.feedback, .source, .suivis, .liensUtile {
+	margin-top: 180px;
+	}
+
+	/*form*/
+
+	.formAddTravel {
+	top: 20px;
+	}
+
+	.formConnection, .formInscription {
+	padding-top: 30px;
+	}
+
+}

@@ -1,0 +1,98 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*//////////////////////style specifique//////////////////////////*/
+/*-------------------------------------------------------------*/
+
+
+/*------------------------INTRODUCTION-----------------------*/
+
+.bckg-home {
+	margin: 0;
+	padding: 0;
+
+	background: url(../img/bckg-home.jpg) no-repeat;
+	background-position: center center;
+	-webkit-background-size: cover; /* pour Chrome et Safari */
+    -moz-background-size: cover; /* pour Firefox */
+    -o-background-size: cover; /* pour Opera */
+     background-size: cover; /* version standardisée */
+}
+
+.message {
+	position: relative;
+	top: 180px;
+	width: 100%;
+	float: left;
+}
+
+.titre-logo {
+	position: relative;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	display: block;
+	width: 470px;
+	height: 150px;
+	text-indent: -9999px;
+
+	background: url(../img/logo-big.png) no-repeat;
+	background-position: center center;
+	background-size: 100%;
+}
+
+.message p {
+	display: block;
+	position: relative;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'source_regular';
+	font-size: 14px;
+	color: white;
+	line-height: 30px;
+}
+
+.bouton-message {
+	position: relative;
+	width: 54.5%;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+.message a {
+	position: relative;
+	display: block;
+	width: 250px;
+	height: 50px;
+	
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	background-color: #59c2e6;
+	border-radius: 3px;
+	font-family: 'source_semibold';
+	float: left;
+	text-align: center;
+	margin-right: 20px;
+
+	line-height: 53px;
+	font-size: 13px;
+
+	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+}
+
+.message a:last-child {
+	margin-right: 0px;
+}
+
+.message a:hover {
+	background-color: #2ecc71;
+
+	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+}
+

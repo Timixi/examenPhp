@@ -1,0 +1,16 @@
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="55px" height="55px" viewBox="0 0 55 55" enable-background="new 0 0 55 55" xml:space="preserve">
+<g>
+	<path id="biblio-path" fill="none" stroke="#444444" stroke-width="3" stroke-miterlimit="10" d="M11,39.5H7.761
+		c-1.458,0-3.261-1.361-3.261-2.82V9.4c0-1.458,1.802-1.9,3.261-1.9H43.84c1.458,0,2.66,0.442,2.66,1.9V14"/>
+	<path id="biblio-path" fill="none" stroke="#444444" stroke-width="3" stroke-miterlimit="10" d="M50.5,44.859
+		c0,1.459-1.182,2.641-2.641,2.641H13.14c-1.458,0-2.64-1.182-2.64-2.641V17.14c0-1.458,1.182-2.64,2.64-2.64h34.719
+		c1.459,0,2.641,1.182,2.641,2.64V44.859z"/>
+	<polygon id="biblio-path" fill="none" stroke="#444444" stroke-miterlimit="10" points="32.463,38.295 38.048,30.822 50.186,46.5 
+		38.95,46.5 	"/>
+	<polygon id="biblio-path" fill="none" stroke="#444444" stroke-miterlimit="10" points="12,34.666 15.558,30.624 21.363,23.815 
+		38.95,46.5 12.034,46.5 12.032,45.609 	"/>
+	<path id="biblio-path" fill="none" stroke="#444444" stroke-miterlimit="10" d="M46.3,21.688c0,1.909-1.544,3.459-3.457,3.459
+		c-1.909,0-3.456-1.55-3.456-3.459c0-1.91,1.547-3.457,3.456-3.457C44.756,18.232,46.3,19.779,46.3,21.688z"/>
+</g>
+<script  src="vues/includes/js/svg.js"></script>
+</svg>
